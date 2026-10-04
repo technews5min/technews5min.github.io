@@ -1,0 +1,17 @@
+{
+  "editions": [
+    {
+      "date": "2026-10-04",
+      "type": "daily",
+      "path": "2026-10-04.html",
+      "title": "Edição 001",
+      "sourceUrls": [
+        "https://www.malaymail.com/news/tech-gadgets/2026/10/01/google-holds-back-gemini-4-argon-limits-release-to-vetted-cybersecurity-experts/237250",
+        "https://www.businessinsider.com/amazon-aws-fde-plans-hiring-2026-10",
+        "https://www.axios.com/2026/10/04/reflection-open-weight-ai",
+        "https://www.anthropic.com/threat-intelligence-report-september-2026",
+        "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level/"
+      ]
+    }
+  ]
+}
