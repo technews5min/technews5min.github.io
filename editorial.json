@@ -11,7 +11,8 @@
     "Preservar páginas anteriores com data e acesso pelo índice.",
     "Distinguir data da publicação e do fato; não repetir notícias antigas como novidades.",
     "Nunca publicar credenciais ou informações pessoais.",
-    "Resumo semanal extra deve preservar a edição diária."
+    "Resumo semanal extra deve preservar a edição diária.",
+    "Incluir em cada notícia uma imagem relevante da própria matéria, preferindo og:image ou imagem editorial. Usar URL HTTPS direta verificada da origem/CDN, sem baixar ou hospedar cópias. Exibir crédito disponível, alt em pt-BR, loading=lazy, decoding=async e referrerpolicy=no-referrer. Não usar publicidade, pixels, imagens inventadas ou URLs não verificadas. Se não existir imagem adequada ou falhar o carregamento/hotlink, omitir a imagem preservando a notícia. Manter logo 5T e abertura de 2 segundos."
   ],
   "initialEdition": "2026-10-04.html"
 }
