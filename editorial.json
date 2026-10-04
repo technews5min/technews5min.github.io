@@ -1,0 +1,17 @@
+{
+  "language": "pt-BR",
+  "timezone": "America/Sao_Paulo",
+  "site": "https://technews5min.github.io/",
+  "dailyTime": "06:30",
+  "weeklyTime": "sábado 08:00",
+  "rules": [
+    "Consultar a última edição e histórico antes de pesquisar.",
+    "Publicar apenas informações verificáveis em fontes oficiais ou veículos confiáveis; excluir rumores e conteúdo duvidoso.",
+    "Exibir URL completa da matéria original em cada notícia.",
+    "Preservar páginas anteriores com data e acesso pelo índice.",
+    "Distinguir data da publicação e do fato; não repetir notícias antigas como novidades.",
+    "Nunca publicar credenciais ou informações pessoais.",
+    "Resumo semanal extra deve preservar a edição diária."
+  ],
+  "initialEdition": "2026-10-04.html"
+}
