@@ -4,7 +4,22 @@
       "date": "2026-10-05",
       "type": "daily",
       "path": "2026-10-05.html",
-      "title": "Edição 002",
+      "title": "Edição 002 · revisada, 5 notícias",
+      "updatedAt": "2026-10-05T07:28:28-03:00",
+      "sourceUrls": [
+        "https://microsoft.ai/news/our-first-streaming-transcription-model/",
+        "https://videocardz.com/newz/asrock-deskslim-packs-125w-desktop-cpus-and-discrete-gpus-into-a-5l-pc",
+        "https://www.asrock.com/Nettop/AMD/DeskSlim%20X600%20Series/",
+        "https://www.trendforce.com/presscenter/news/20260930-13258.html",
+        "https://news.xbox.com/en-us/2026/10/02/next-week-on-xbox-new-games-for-october-5-to-9/",
+        "https://www.microsoft.com/en-us/security/blog/2026/10/01/insights-from-the-2026-microsoft-digital-defense-report/"
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "type": "revision",
+      "path": "2026-10-05-0635.html",
+      "title": "Edição 002 · versão inicial (06:35)",
       "updatedAt": "2026-10-05T06:35:19-03:00",
       "sourceUrls": [
         "https://www.securityweek.com/exploitation-of-citrix-netscaler-zero-day-hits-appliances-patched-days-earlier/",
