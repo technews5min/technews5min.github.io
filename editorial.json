@@ -12,7 +12,8 @@
     "Distinguir data da publicação e do fato; não repetir notícias antigas como novidades.",
     "Nunca publicar credenciais ou informações pessoais.",
     "Resumo semanal extra deve preservar a edição diária.",
-    "Incluir em cada notícia uma imagem relevante da própria matéria, preferindo og:image ou imagem editorial. Usar URL HTTPS direta verificada da origem/CDN, sem baixar ou hospedar cópias. Exibir crédito disponível, alt em pt-BR, loading=lazy, decoding=async e referrerpolicy=no-referrer. Não usar publicidade, pixels, imagens inventadas ou URLs não verificadas. Se não existir imagem adequada ou falhar o carregamento/hotlink, omitir a imagem preservando a notícia. Manter logo 5T e abertura de 2 segundos."
+    "Incluir em cada notícia uma imagem relevante da própria matéria, preferindo og:image ou imagem editorial. Usar URL HTTPS direta verificada da origem/CDN, sem baixar ou hospedar cópias. Exibir crédito disponível, alt em pt-BR, loading=lazy, decoding=async e referrerpolicy=no-referrer. Não usar publicidade, pixels, imagens inventadas ou URLs não verificadas. Se não existir imagem adequada ou falhar o carregamento/hotlink, omitir a imagem preservando a notícia. Manter logo 5T e abertura de 2 segundos.",
+    "Em todas as páginas, manter o botão visível Ver edição mais recente com href=/, a seção Todas as edições com data-edition-history e o script /assets/edition-history.js. O histórico consulta editions.json atualizado, inclusive nas páginas antigas. Ao publicar qualquer edição diária ou semanal, registrar date, type, path e title em editions.json; preservar essa navegação nas novas páginas."
   ],
   "initialEdition": "2026-10-04.html"
 }
