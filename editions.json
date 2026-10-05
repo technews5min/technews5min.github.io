@@ -1,6 +1,18 @@
 {
   "editions": [
     {
+      "date": "2026-10-05",
+      "type": "daily",
+      "path": "2026-10-05.html",
+      "title": "Edição 002",
+      "updatedAt": "2026-10-05T06:35:19-03:00",
+      "sourceUrls": [
+        "https://www.securityweek.com/exploitation-of-citrix-netscaler-zero-day-hits-appliances-patched-days-earlier/",
+        "https://community.citrix.com/techzone-blogs/110_security-updates/understanding-and-addressing-cve-2026-88779-in-citrix-netscaler-adc-and-citrix-netscaler-gateway/",
+        "https://indianexpress.com/article/technology/tech-news-technology/openais-sam-altman-says-ai-benefits-warrant-accepting-some-risks-10907002/"
+      ]
+    },
+    {
       "date": "2026-10-04",
       "type": "daily",
       "path": "2026-10-04.html",
