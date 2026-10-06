@@ -1,6 +1,20 @@
 {
   "editions": [
     {
+      "date": "2026-10-06",
+      "type": "daily",
+      "path": "2026-10-06.html",
+      "title": "Edição 003",
+      "updatedAt": "2026-10-06T06:29:13-03:00",
+      "sourceUrls": [
+        "https://openai.com/index/eu-text-provenance/",
+        "https://news.microsoft.com/windows-surface-october-2026-news/",
+        "https://prefeitura.rio/assistencia-social-direitos-humanos/smas-e-firjan-senai-oferecem-120-vagas-em-cursos-gratis-de-formacao-profissional-em-ti/",
+        "https://www.amd.com/en/blogs/2026/how-amd-ryzen-ai-max-pro-400-series-processors-bring-local-agentic-ai-to-business-customers.html",
+        "https://blog.playstation.com/2026/09/30/playstation-plus-monthly-games-for-october-f1-25-hunt-showdown-1896-earth-defense-force-world-brothers-2/"
+      ]
+    },
+    {
       "date": "2026-10-05",
       "type": "daily",
       "path": "2026-10-05.html",

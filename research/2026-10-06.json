@@ -1,0 +1,70 @@
+{
+  "date": "2026-10-06",
+  "updatedAt": "2026-10-06T06:29:13-03:00",
+  "categoriesSearched": [
+    "Tecnologia",
+    "IA",
+    "Carreira em TI",
+    "Segurança",
+    "Microsoft",
+    "Hardware",
+    "Games"
+  ],
+  "selected": [
+    {
+      "title": "OpenAI anuncia marca d’água invisível para textos gerados por IA",
+      "url": "https://openai.com/index/eu-text-provenance/",
+      "originalDate": "05/10/2026",
+      "status": "Novo assunto no 5T; fonte primária consultada",
+      "image": null
+    },
+    {
+      "title": "Microsoft marca apresentação de Windows e Surface para 7 de outubro",
+      "url": "https://news.microsoft.com/windows-surface-october-2026-news/",
+      "originalDate": "05/10/2026 · chamada; evento em 07/10",
+      "status": "Novo assunto no 5T; fonte primária consultada",
+      "image": "https://msftstories.thesourcemediaassets.com/sites/759/2026/10/Windows-10-7-1-scaled.jpg"
+    },
+    {
+      "title": "Rio abre 120 vagas gratuitas em formação profissional de TI",
+      "url": "https://prefeitura.rio/assistencia-social-direitos-humanos/smas-e-firjan-senai-oferecem-120-vagas-em-cursos-gratis-de-formacao-profissional-em-ti/",
+      "originalDate": "05/10/2026",
+      "status": "Novo assunto no 5T; fonte primária consultada",
+      "image": "https://prefeitura.rio/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-05-at-16.13.00.jpeg"
+    },
+    {
+      "title": "Ryzen AI Max PRO 400 amplia memória para executar agentes de IA localmente",
+      "url": "https://www.amd.com/en/blogs/2026/how-amd-ryzen-ai-max-pro-400-series-processors-bring-local-agentic-ai-to-business-customers.html",
+      "originalDate": "28/09/2026",
+      "status": "Novo assunto no 5T; fonte primária consultada",
+      "image": null
+    },
+    {
+      "title": "PS Plus prevê F1 25, Hunt e World Brothers 2 a partir desta terça",
+      "url": "https://blog.playstation.com/2026/09/30/playstation-plus-monthly-games-for-october-f1-25-hunt-showdown-1896-earth-defense-force-world-brothers-2/",
+      "originalDate": "30/09/2026 · período a partir de 06/10",
+      "status": "Novo assunto no 5T; fonte primária consultada",
+      "image": "https://blog.playstation.com/tachyon/2026/09/d9cf749a1a4850fd0969ccb3a83cb907c56f640a.jpg?crop_strategy=smart&resize=1088%2C612"
+    }
+  ],
+  "otherCandidates": [
+    {
+      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign/",
+      "result": "Verificada, 30/09; não selecionada para evitar concentração da edição em OpenAI."
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/your-ai-transformation-starts-with-what-youve-already-built/",
+      "result": "Original em 01/10 apesar de chamada em 05/10; conteúdo principalmente de divulgação de evento, não selecionado."
+    },
+    {
+      "url": "https://blog.playstation.com/2026/10/01/ai-upscaling-is-coming-to-ps5/",
+      "result": "Verificada, 01/10; reservada para evitar dois cards de PlayStation nesta edição."
+    },
+    {
+      "url": "https://www.isaca.org/about-us/newsroom/press-releases/2026/isaca-digital-trust-workforce-development-program-to-prepare-learners-for-tech-jobs-in-2026",
+      "result": "Programa mais antigo e limitado a localidades nos EUA; priorizada oportunidade brasileira recente."
+    }
+  ],
+  "imageVerification": "Três imagens editoriais abertas pela ferramenta web na origem. Imagens da AMD falharam na abertura; card omitido. Não foi obtida imagem editorial verificável do anúncio textGrain.",
+  "reusedTopics": []
+}
