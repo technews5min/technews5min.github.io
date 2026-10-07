@@ -1,0 +1,72 @@
+{
+  "updatedAt": "2026-10-07T20:59:23-03:00",
+  "categoriesSearched": [
+    "Tecnologia",
+    "IA",
+    "Carreira",
+    "Segurança",
+    "Microsoft",
+    "Hardware",
+    "Games"
+  ],
+  "selected": [
+    {
+      "title": "NTT DATA abre ambiente para testar IA antes de colocá-la em produção",
+      "url": "https://de.nttdata.com/newsroom/2026/ntt-data-eroffnet-ai-factory-munich",
+      "published": "07/10/2026",
+      "reason": "Assunto ainda não publicado, confirmado em fonte primária"
+    },
+    {
+      "title": "Boletim de outubro do Android corrige falhas críticas",
+      "url": "https://source.android.com/docs/security/bulletin/2026/2026-10-01",
+      "published": "05/10/2026",
+      "reason": "Assunto ainda não publicado, confirmado em fonte primária"
+    },
+    {
+      "title": "Tecnologia de baterias automotivas vai para data centers de IA",
+      "url": "https://www.rimac-newsroom.com/press-releases/rimac-technology/rimac-technology-and-ecoblox-partner-to-bring-rimac-battery-and-power-electronics",
+      "published": "07/10/2026",
+      "reason": "Assunto ainda não publicado, confirmado em fonte primária"
+    },
+    {
+      "title": "Wolverine V4 leva sensores capacitivos e até 8 kHz ao controle de PC",
+      "url": "https://www.razer.com/newsroom/product-news/wolverine-v4-line",
+      "published": "06/10/2026",
+      "reason": "Assunto ainda não publicado, confirmado em fonte primária"
+    },
+    {
+      "title": "Game Pass anuncia Battlefield 6 e novas entradas para outubro",
+      "url": "https://news.xbox.com/en-us/2026/10/07/xbox-game-pass-october-2026-wave-1/",
+      "published": "07/10/2026",
+      "reason": "Assunto ainda não publicado, confirmado em fonte primária"
+    }
+  ],
+  "excluded": [
+    {
+      "topic": "Chrome 155",
+      "reason": "Fonte primária bloqueou a leitura; preferido boletim Android acessível"
+    },
+    {
+      "topic": "Surface Laptop Ultra",
+      "reason": "Desdobramento de agenda já coberta; cinco assuntos inéditos disponíveis"
+    },
+    {
+      "topic": "Portal OLED e Intel vazamentos",
+      "reason": "Rumores excluídos"
+    },
+    {
+      "topic": "Instituto da Universidade do Tennessee",
+      "reason": "Verificado, mas menor utilidade direta nesta seleção"
+    }
+  ],
+  "images": {
+    "verified": [
+      "NTT DATA",
+      "Xbox Wire"
+    ],
+    "omitted": [
+      "Android: sem imagem editorial adequada",
+      "Rimac e Razer: imagens extraídas, mas validação de carregamento falhou"
+    ]
+  }
+}

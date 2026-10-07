@@ -4,7 +4,21 @@
       "date": "2026-10-07",
       "type": "daily",
       "path": "2026-10-07.html",
-      "title": "Edição 004",
+      "title": "Edição 004 · atualização da noite",
+      "updatedAt": "2026-10-07T20:59:23-03:00",
+      "sourceUrls": [
+        "https://de.nttdata.com/newsroom/2026/ntt-data-eroffnet-ai-factory-munich",
+        "https://source.android.com/docs/security/bulletin/2026/2026-10-01",
+        "https://www.rimac-newsroom.com/press-releases/rimac-technology/rimac-technology-and-ecoblox-partner-to-bring-rimac-battery-and-power-electronics",
+        "https://www.razer.com/newsroom/product-news/wolverine-v4-line",
+        "https://news.xbox.com/en-us/2026/10/07/xbox-game-pass-october-2026-wave-1/"
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "type": "revision",
+      "path": "2026-10-07-0638.html",
+      "title": "Edição 004 · versão da manhã (06:38)",
       "updatedAt": "2026-10-07T06:38:11-03:00",
       "sourceUrls": [
         "https://openai.com/index/advancing-computer-use-with-ironclad/",
