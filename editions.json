@@ -1,6 +1,20 @@
 {
   "editions": [
     {
+      "date": "2026-10-07",
+      "type": "daily",
+      "path": "2026-10-07.html",
+      "title": "Edição 004",
+      "updatedAt": "2026-10-07T06:38:11-03:00",
+      "sourceUrls": [
+        "https://openai.com/index/advancing-computer-use-with-ironclad/",
+        "https://www.anthropic.com/news/cyber-verification-program",
+        "https://www.reuters.com/business/energy/google-enters-massive-36-gw-power-deal-with-constellation-energy-2026-10-06/",
+        "https://www.reuters.com/world/india/ai-firm-elevenlabs-invest-hundreds-millions-dollars-india-2026-10-06/",
+        "https://blog.playstation.com/2026/10/06/warhammer-survivors-launches-november-10-new-characters-revealed/"
+      ]
+    },
+    {
       "date": "2026-10-06",
       "type": "daily",
       "path": "2026-10-06.html",

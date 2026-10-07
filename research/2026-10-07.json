@@ -1,0 +1,88 @@
+{
+  "date": "2026-10-07",
+  "updatedAt": "2026-10-07T06:38:11-03:00",
+  "categoriesSearched": [
+    "Tecnologia",
+    "IA",
+    "Carreira em TI",
+    "Segurança",
+    "Microsoft",
+    "Hardware",
+    "Games"
+  ],
+  "selected": [
+    {
+      "title": "Astra melhora em tarefas complexas de contratos no computador",
+      "url": "https://openai.com/index/advancing-computer-use-with-ironclad/",
+      "originalDate": "06/10/2026",
+      "status": "Assunto ainda não publicado no 5T; data e contexto verificados",
+      "sourceType": "fonte primária",
+      "image": null
+    },
+    {
+      "title": "Anthropic amplia acesso controlado a modelos para defesa cibernética",
+      "url": "https://www.anthropic.com/news/cyber-verification-program",
+      "originalDate": "06/10/2026",
+      "status": "Assunto ainda não publicado no 5T; data e contexto verificados",
+      "sourceType": "fonte primária",
+      "image": null
+    },
+    {
+      "title": "Google fecha acordo de 3,59 GW para sustentar expansão de data centers",
+      "url": "https://www.reuters.com/business/energy/google-enters-massive-36-gw-power-deal-with-constellation-energy-2026-10-06/",
+      "originalDate": "06/10/2026",
+      "status": "Assunto ainda não publicado no 5T; data e contexto verificados",
+      "sourceType": "veículo confiável",
+      "image": null
+    },
+    {
+      "title": "ElevenLabs prepara investimento de centenas de milhões de dólares na Índia",
+      "url": "https://www.reuters.com/world/india/ai-firm-elevenlabs-invest-hundreds-millions-dollars-india-2026-10-06/",
+      "originalDate": "06/10/2026",
+      "status": "Assunto ainda não publicado no 5T; data e contexto verificados",
+      "sourceType": "veículo confiável",
+      "image": null
+    },
+    {
+      "title": "Warhammer Survivors confirma lançamento no PS5 em 10 de novembro",
+      "url": "https://blog.playstation.com/2026/10/06/warhammer-survivors-launches-november-10-new-characters-revealed/",
+      "originalDate": "06/10/2026 · lançamento em 10/11",
+      "status": "Assunto ainda não publicado no 5T; data e contexto verificados",
+      "sourceType": "fonte primária",
+      "image": "https://blog.playstation.com/tachyon/2048/10/c052d06b89ccf8f100f2fa769006330e163a89fc.jpg?crop_strategy=smart&resize=1088%2C612"
+    }
+  ],
+  "otherCandidates": [
+    {
+      "url": "https://openai.com/index/atlassian-openai-partnership/",
+      "result": "Assunto novo e verificável, mas não selecionado para evitar duas matérias da mesma empresa na edição."
+    },
+    {
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-attempts-to-get-ahead-of-expected-rtx-spark-launch-with-gorgon-halo-ai-benchmarks-company-says-it-has-shipped-over-half-a-million-agentic-pcs-to-date",
+      "result": "Cobertura recente, porém relacionada à mesma família Ryzen AI Max PRO 400 publicada em 06/10; descartada para não reciclar tema sem necessidade."
+    },
+    {
+      "url": "https://news.microsoft.com/windows-surface-october-2026-news/",
+      "result": "Evento ocorre em 07/10 às 14h de Brasília; às 06:38 ainda não havia anúncio novo além da chamada já publicada em 06/10."
+    },
+    {
+      "url": "https://news.xbox.com/en-us/2026/10/02/next-week-on-xbox-new-games-for-october-5-to-9/",
+      "result": "Já publicado na edição de 05/10; não reutilizado."
+    },
+    {
+      "url": "https://www.reuters.com/legal/litigation/us-justice-dept-tells-staff-call-ai-super-intelligence-under-trump-order-2026-10-06/",
+      "result": "Não selecionado por ter menor utilidade prática para o escopo editorial do 5T."
+    },
+    {
+      "url": "https://www.reuters.com/legal/litigation/anthropic-opens-its-most-powerful-ai-models-more-security-teams-2026-10-06/",
+      "result": "Usado apenas para verificação cruzada; a edição aponta para a fonte primária da Anthropic."
+    }
+  ],
+  "searchNotes": {
+    "Carreira em TI": "Buscas específicas não encontraram uma oportunidade nova, ampla e suficientemente relevante para substituir os cinco assuntos selecionados.",
+    "Microsoft": "Pesquisa realizada; apresentação de Windows e Surface ainda não havia ocorrido no horário da atualização.",
+    "Hardware": "Pesquisa realizada; resultados recentes eram repetição da família AMD coberta no dia anterior ou conteúdo sem fonte primária suficiente."
+  },
+  "imageVerification": "A imagem de Warhammer Survivors foi extraída da página oficial do PlayStation Blog. As imagens da Reuters usam URLs redimensionadas com parâmetros temporários e foram omitidas. Não foram confirmadas URLs editoriais estáveis nas páginas da OpenAI e da Anthropic; esses cards foram publicados sem imagem.",
+  "reusedTopics": []
+}
