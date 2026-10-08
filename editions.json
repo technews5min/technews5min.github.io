@@ -1,6 +1,20 @@
 {
   "editions": [
     {
+      "date": "2026-10-08",
+      "type": "daily",
+      "path": "2026-10-08.html",
+      "title": "Edição 005",
+      "updatedAt": "2026-10-08T06:36:48-03:00",
+      "sourceUrls": [
+        "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
+        "https://nodejs.org/en/blog/release/v26.11.0",
+        "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
+        "https://blogs.nvidia.com/blog/applications-open-graduate-fellowship-awards-2026/",
+        "https://blogs.nvidia.com/blog/geforce-now-thursday-october-2026-games-list/"
+      ]
+    },
+    {
       "date": "2026-10-07",
       "type": "daily",
       "path": "2026-10-07.html",
