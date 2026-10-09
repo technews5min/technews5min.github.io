@@ -1,6 +1,20 @@
 {
   "editions": [
     {
+      "date": "2026-10-09",
+      "type": "daily",
+      "path": "2026-10-09.html",
+      "title": "Edição 006",
+      "updatedAt": "2026-10-09T06:31:27-03:00",
+      "sourceUrls": [
+        "https://www.anthropic.com/news/2026-usage-policy-update",
+        "https://www.microsoft.com/en-us/security/blog/2026/10/08/post-quantum-authentication-why-organizations-should-start-testing-certificate-ecosystems-now/",
+        "https://blogs.windows.com/devices/2026/10/07/pre-order-our-most-powerful-surface-devices-ever/",
+        "https://www.anthropic.com/news/claude-frontier-academy",
+        "https://blog.playstation.com/2026/10/08/critical-role-joins-rockbeasts-launching-january-2027/"
+      ]
+    },
+    {
       "date": "2026-10-08",
       "type": "daily",
       "path": "2026-10-08.html",
