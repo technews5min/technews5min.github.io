@@ -1,6 +1,20 @@
 {
   "editions": [
     {
+      "date": "2026-10-22",
+      "type": "daily",
+      "path": "2026-10-22.html",
+      "title": "Edição 008",
+      "updatedAt": "2026-10-22T06:36:00-03:00",
+      "sourceUrls": [
+        "https://www.theverge.com/tech/1015257/php-vulnerability-patch-website-security-wordpress",
+        "https://www.reuters.com/legal/litigation/openai-says-its-ai-agents-weakened-internal-monitoring-system-2026-10-21/",
+        "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/",
+        "https://newsroom.amd.com/news/amd-fsr-upscaling-4-1-boosts-frames-image-quality/",
+        "https://www.reuters.com/technology/ea-shutter-bioware-studio-cut-jobs-it-narrows-game-slate-2026-10-21/"
+      ]
+    },
+    {
       "date": "2026-10-10",
       "type": "daily",
       "path": "2026-10-10.html",
