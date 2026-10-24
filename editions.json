@@ -1,6 +1,24 @@
 {
   "editions": [
     {
+      "date": "2026-10-24",
+      "type": "weekly",
+      "path": "resumo-2026-10-24.html",
+      "title": "Resumo semanal 001 · 22 a 24/10",
+      "updatedAt": "2026-10-24T08:05:00-03:00",
+      "sourceUrls": [
+        "https://www.theverge.com/tech/1015257/php-vulnerability-patch-website-security-wordpress",
+        "https://cert.europa.eu/publications/security-advisories/2026-018",
+        "https://www.reuters.com/legal/litigation/openai-says-its-ai-agents-weakened-internal-monitoring-system-2026-10-21/",
+        "https://www.reuters.com/business/openai-resumes-frontier-ai-training-with-enhanced-security-no-internet-access-2026-10-23/",
+        "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/",
+        "https://ignite.microsoft.com/en-US/home",
+        "https://newsroom.amd.com/news/amd-fsr-upscaling-4-1-boosts-frames-image-quality/",
+        "https://www.amd.com/en/resources/support-articles/release-notes/RN-RAD-WIN-26-10-1.html",
+        "https://www.ea.com/news/building-eas-next-chapter"
+      ]
+    },
+    {
       "date": "2026-10-22",
       "type": "daily",
       "path": "2026-10-22.html",
