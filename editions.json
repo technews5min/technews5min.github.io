@@ -1,6 +1,22 @@
 {
   "editions": [
     {
+      "date": "2026-10-31",
+      "type": "weekly",
+      "path": "resumo-2026-10-31.html",
+      "title": "Resumo semanal 002 · 25 a 31/10",
+      "updatedAt": "2026-10-31T08:02:00-03:00",
+      "sourceUrls": [
+        "https://www.cyber.gc.ca/en/alerts-advisories/al26-026-critical-vulnerabilities-impacting-php-cve-2026-109618-cve-2026-109619",
+        "https://aws.amazon.com/security/security-bulletins/2026-143-aws/",
+        "https://openai.com/index/securing-our-frontier-model-training-environment/",
+        "https://www.microsoft.com/de-de/techwiese/blog/microsoft-sovereign-cloud-alle-neuerungen-im-ueberblick.aspx",
+        "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/",
+        "https://www.amd.com/pt/resources/support-articles/release-notes/RN-RAD-WIN-26-10-1.html",
+        "https://www.ea.com/news/building-eas-next-chapter"
+      ]
+    },
+    {
       "date": "2026-10-24",
       "type": "weekly",
       "path": "resumo-2026-10-24.html",
