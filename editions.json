@@ -1,6 +1,21 @@
 {
   "editions": [
     {
+      "date": "2026-11-07",
+      "type": "weekly",
+      "path": "resumo-2026-11-07.html",
+      "title": "Resumo semanal 003 · 01 a 07/11",
+      "updatedAt": "2026-11-07T08:01:00-03:00",
+      "sourceUrls": [
+        "https://www.php.net/archive/2026.php#2026-11-05-1",
+        "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai/",
+        "https://openai.com/index/partnering-with-hacktron/",
+        "https://learn.microsoft.com/en-us/partner-center/announcements/2026-november",
+        "https://devcommunity.amd.com/t/amd-fsr-upscaling-4-1-2-comes-to-xbox-series-x-s/1308",
+        "https://www.ea.com/news/building-eas-next-chapter"
+      ]
+    },
+    {
       "date": "2026-10-31",
       "type": "weekly",
       "path": "resumo-2026-10-31.html",
