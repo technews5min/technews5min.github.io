@@ -1,6 +1,23 @@
 {
   "editions": [
     {
+      "date": "2026-11-14",
+      "type": "weekly",
+      "path": "resumo-2026-11-14.html",
+      "title": "Resumo semanal 004 · 08 a 14/11",
+      "updatedAt": "2026-11-14T08:02:00-03:00",
+      "sourceUrls": [
+        "https://www.php.net/archive/2026.php#2026-11-12-1",
+        "https://openai.com/index/control-room/",
+        "https://techcommunity.microsoft.com/blog/azureinfrastructureblog/join-intel-and-microsoft-at-ignite-2026/4571739",
+        "https://techcommunity.microsoft.com/blog/AzureInfrastructureBlog/join-nvidia-and-microsoft-at-ignite-2026/4573012",
+        "https://gpuopen.com/learn/amd-fsr-upscaling-412-xbox/",
+        "https://devcommunity.amd.com/t/amd-fsr-upscaling-4-1-2-comes-to-xbox-series-x-s/1308",
+        "https://www.ea.com/news/building-eas-next-chapter",
+        "https://blog.bioware.com/2026/10/21/bioware-update/"
+      ]
+    },
+    {
       "date": "2026-11-07",
       "type": "weekly",
       "path": "resumo-2026-11-07.html",
